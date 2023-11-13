@@ -24,7 +24,7 @@ int main()
                 numpl[j] = '0';
             }
         }
-        start = start+numpl;  // Прибавление чаин к плюсу
+        start = start+numpl;  // Прибавление начала к цифре
         cout << "Последовательность числа " << posled++ << endl;
         cout << start << endl << endl;;
     }
