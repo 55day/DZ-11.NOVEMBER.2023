@@ -26,7 +26,7 @@ int main()
         }
         start = start+numpl;  // Прибавление начала к цифре
         cout << "Последовательность числа " << posled++ << endl;
-        cout << start << endl << endl;;
+        cout << start << endl << endl;
     }
 
     return 0;
